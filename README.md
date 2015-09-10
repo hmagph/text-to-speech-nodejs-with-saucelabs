@@ -6,7 +6,7 @@
 
 Give it a try! Click the button below to fork into IBM DevOps Services and deploy your own copy of this application on Bluemix, with a DevOps toolchain already configured and waiting for you to engage.
 
-[![Deploy To Bluemix](https://bluemix.net/deploy/button.png)](https://dev01.hub.jazz.net/deploy/index.html?repository=https://github.com/hmagph/text-to-speech-nodejs-with-saucelabs)
+[![Deploy To Bluemix](https://bluemix.net/deploy/button.png)](https://dev01.hub.jazz.net/deploy/index.html?repository=https://github.com/hmagph/text-to-speech-nodejs-with-saucelabs&otc=true)
 
 ## Text to Speech Nodejs Starter Application
 

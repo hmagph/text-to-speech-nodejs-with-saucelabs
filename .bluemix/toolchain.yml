@@ -8,3 +8,6 @@ build:
 test:
   capability: saucelabs
   metadata: saucelabs.yml
+messaging:
+  capability: slack
+  metadata: slack.yml
