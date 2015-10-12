@@ -33,6 +33,7 @@ stages:
       application: text-to-speech-nodejs-with-saucelabs
     script: |-
       #!/bin/bash
+      cf create-service text_to_speech standard text-to-speech-service-standard
       cf push "${CF_APP}"
       export CF_APP_NAME="$CF_APP"
       # View logs
