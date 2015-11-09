@@ -30,7 +30,7 @@ stages:
       url: ${CF_TARGET_URL}
       organization: ${CF_ORGANIZATION}
       space: ${CF_SPACE}
-      application: text-to-speech-nodejs-with-saucelabs
+      application: ${CF_APP}
     script: |-
       #!/bin/bash
       cf create-service text_to_speech standard text-to-speech-service-standard
