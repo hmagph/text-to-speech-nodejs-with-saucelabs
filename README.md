@@ -12,7 +12,7 @@ Give it a try! Click the button below to fork into IBM DevOps Services and deplo
 
 [![Deploy To Bluemix](https://bluemix.net/deploy/button.png)](https://qa.hub.jazz.net/deploy/index.html?repository=https://github.com/hmagph/text-to-speech-nodejs-with-saucelabs&otc=true) using QA
 
-[![Deploy To Bluemix](https://bluemix.net/deploy/button.png)](https://hub.jazz.net/deploy/index.html?repository=https://github.com/hmagph/text-to-speech-nodejs-with-saucelabs&otc=true) using PROD
+[![Deploy To Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/hmagph/text-to-speech-nodejs-with-saucelabs&otc=true) using PROD
 
 ## Text to Speech Nodejs Starter Application
 
